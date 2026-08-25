@@ -1,1 +1,1 @@
-# ___'s UX Journal
+# Rainier's UX Journal
