@@ -17,7 +17,7 @@ While driving my car, I often want to change the temperature controls, turn on t
 
 While driving to work in the Hyundai, I wanted to turn on the defroster in the morning and off when my windshield was clear. The climate controls are a flat panel, without physical buttons or indentations to tell you where the controls are. Because of this, I chose to tap randomly on the screen where I thought the button was. This yielded no results, and I had to look at the display to find the button.
 
-![Hyundai](assests/hyundai.jpeg)
+![Hyundai](assets/hyundai.jpeg)
 
 Another problem with this system was its lack of feedback when using the controls. The lack of feedback makes it harder still to find the buttons, because you can’t tell if your input was registered without looking at the screen.
 
