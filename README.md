@@ -12,13 +12,12 @@ My parents recently got a new electric car, a Hyundai Ioniq 5. I don’t have mu
 
 While driving my car, I often want to change the temperature controls, turn on the defrost, or generally interact with the climate control. In my car, these controls use physical buttons and dials. When I press one of these buttons, they provide **feedback** in the form of an auditory *Click*. Feedback is a response from the system that tells me my input was received. Another beneficial feature is that each button has a gap between the other buttons, making it easy to know if your finger is on a button or not.
 
-<img alt="nissan" src="https://github.com/user-attachments/assets/280bc36f-e28e-43dd-8fef-bc3fa3bfff57" />
+![Nissan](assets/nissan.jpeg)
 
 
 While driving to work in the Hyundai, I wanted to turn on the defroster in the morning and off when my windshield was clear. The climate controls are a flat panel, without physical buttons or indentations to tell you where the controls are. Because of this, I chose to tap randomly on the screen where I thought the button was. This yielded no results, and I had to look at the display to find the button.
 
-<img alt="hyundai" src="https://github.com/user-attachments/assets/52a29d1d-9437-43a5-8d50-893d16964275" />
-
+![Hyundai](assests/hyundai.jpeg)
 
 Another problem with this system was its lack of feedback when using the controls. The lack of feedback makes it harder still to find the buttons, because you can’t tell if your input was registered without looking at the screen.
 
